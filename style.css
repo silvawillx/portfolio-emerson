@@ -53,7 +53,7 @@ img {
   height: 112px;
   border-radius: 50%;
   border: 2px solid var(--stroke);
-  background: url("assets/Avatar.png") center/cover no-repeat;
+  background: url("assets/avatar.png") center/cover no-repeat;
 }
 
 .name,
